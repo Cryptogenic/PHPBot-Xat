@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<config>
+	<database>phpbot</database> <!-- Database name goes here -->
+	<username>bot</username> <!-- Database user goes here -->
+	<password>O4H*3n//Hs1k?8A</password> <!-- Database pass goes here -->
+</config>
