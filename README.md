@@ -1,0 +1,2 @@
+#PHPBot-Xat
+This is a free, open-sourced dump of a PHP bot for Xat that Jaden, Ethan, and myself worked on ~one year or two ago. Some packets may need to be updated and such, but in terms of the script, it is a near company-ready script. The script is also very efficient and is clean and easy to follow. Feel free to fork, redistribute, and even use if you like. Credit to Specter (Cryptogenic), Jaden, Ethan.
